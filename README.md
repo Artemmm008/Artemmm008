@@ -22,4 +22,4 @@ HTML5, CSS3, SASS, JavaScript, React, Handlebars, GIT, Webpack, Parcel, REST API
 
 📫 How to reach me:  
 
-[LinkedIn](www.linkedin.com/in/artem-lypatov) | [Email](artemshkola141@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/artem-lypatov) | [Email](https://artemshkola141@gmail.com)
