@@ -1,12 +1,29 @@
-👋 Hi, I'm Artem Lypatov
+# 👋 Hi, I'm Artem Lypatov
 
-Junior Fullstack Developer | React
+### Junior Fullstack Developer | React | Next.js | Node.js
 
-Highly motivated Junior Fullstack Developer (currently finalizing training at GoIT). Passionate about building interactive web applications with JavaScript and React. Fast learner with a strong foundation in JavaScript and React. Experienced in building responsive web applications using SASS and BEM methodology. Proven ability to work in a team environment as a Developer. Ready to start my career and grow as a professional developer.
+---
 
-🧰 Tech Stack  
+## 🛠️ Tech Stack
 
-HTML5, CSS3, SASS, JavaScript, React, Handlebars, GIT, Webpack, Parcel, REST API
+### 💻 Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
 💻Featured Projects  
 
