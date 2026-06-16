@@ -26,7 +26,7 @@
 
 ---
 
-💻Featured Projects  
+### 💻Featured Projects  
 
 - [CoffeyJoy](https://github.com/DronSofiia/project-CoffeeJoy10) – Project Description: Coffey shop. Created a responsive footer using SASS and Flexbox for display on mobile, tablet and desktop with a subscription form. Used BEM methodology to ensure the CSS code is clean and organized. Participated in code reviews and collaborated with the team to fix bugs. Maintained active communication with teammates to ensure the project followed all requirements.
 
@@ -34,7 +34,7 @@
 
 ---
 
-🗣️ Languages
+### 🗣️ Languages
 
 ![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
 
@@ -42,6 +42,6 @@
 
 ---
 
-📫 How to reach me:  
+### 📫 How to reach me:  
 
 [LinkedIn](https://www.linkedin.com/in/artem-lypatov) | [Email](https://artemshkola141@gmail.com)
