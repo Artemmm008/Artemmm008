@@ -29,22 +29,26 @@
 ## 💻 Featured Projects
 
 ### [Rental Car](https://github.com/Artemmm008/rental-car) — Car Rental Platform
-A modern web application for discovering and booking rental vehicles, built with performance and user experience in mind.
-* **Tech Stack:** Next.js (App Router), React, TypeScript, CSS Modules, REST API.
-* **Key Features:** Fully responsive UI/UX, server-side data fetching for vehicle listings, intricate filtering systems (by model, brand, and rental features), interactive modal windows for booking details, and dynamic state management.
+* **Tech Stack:** Next.js, React, TypeScript, CSS Modules, REST API, TanStack Query, React-Select.
 
-### [Leleka](https://github.com/bozhenko-zakhar/final_project_screencast_front) — Pregnancy Monitoring Platform
-A collaborative full-stack web application designed to track and monitor pregnancy data.
-* **Tech Stack:** React, Node.js, Express, JavaScript, REST API, Git.
-* **Key Contribution:** Participated as a developer in a team environment. Worked closely on bridging frontend state management with backend API endpoints, participated in structured code reviews, and conducted debugging across the stack to ensure stability.
+### Leleka 
+[Frontend Repository](https://github.com/bozhenko-zakhar/final_project_screencast_front) | [Backend Repository](https://github.com/bozhenko-zakhar/final_project_screencast_back)
+* **Tech Stack:**  Next.js, TanStack Query, React, Node.js, Express, TypeScript, REST API, MongoDB.
+* **Key Contribution:** Participated as a developer in a team environment. Worked closely on bridging frontend state management with backend API endpoints, participated in structured code reviews.
 
-### [CoffeyJoy](https://github.com/DronSofiia/project-CoffeeJoy10) – Project Description: Coffey shop. Created a responsive footer using SASS and Flexbox for display on mobile, tablet and desktop with a subscription form. Used BEM methodology to ensure the CSS code is clean and organized. Participated in code reviews and collaborated with the team to fix bugs. Maintained active communication with teammates to ensure the project followed all requirements.
+### Paw House(https://github.com/Kostiantyn-Spyrydonov/paw-house) — Pet Shop
 
-### [Paw House](https://github.com/Kostiantyn-Spyrydonov/paw-house) – Project Description: Animal shop. Created a responsive header using SASS and Flexbox for display on mobile, tablet and desktop. Built a mobile menu and navigation using JavaScript. Used BEM methodology to keep the code clean and easy to read. Participated in code reviews with other members. Was always in touch to be there if someone needed help and just to be sure that the project met the criteria.
+* **Tech Stack:** HTML5, CSS3, JavaScript (Vanilla), Vite.
+* **Key Contribution:** Built the responsive website header and dynamic mobile navigation menu using JavaScript. Collaborated with teammates during code reviews and integrated cross-browser bug fixes.
+
+### CoffeyJoy(https://github.com/DronSofiia/project-CoffeeJoy10) — Coffee Shop
+
+* **Tech Stack:** HTML5, CSS3, Vite.
+* **Key Contribution:** Developed a fully responsive footer with an integrated subscription form optimized for mobile, tablet, and desktop views.
 
 ---
 
-### 🗣️ Languages
+## 🗣️ Languages
 
 ![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
 
@@ -52,6 +56,6 @@ A collaborative full-stack web application designed to track and monitor pregnan
 
 ---
 
-### 📫 How to reach me:  
+## 📫 How to reach me:  
 
 [LinkedIn](https://www.linkedin.com/in/artem-lypatov) | [Email](https://artemshkola141@gmail.com)
