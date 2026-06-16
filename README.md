@@ -26,11 +26,21 @@
 
 ---
 
-### 💻Featured Projects  
+## 💻 Featured Projects
 
-- [CoffeyJoy](https://github.com/DronSofiia/project-CoffeeJoy10) – Project Description: Coffey shop. Created a responsive footer using SASS and Flexbox for display on mobile, tablet and desktop with a subscription form. Used BEM methodology to ensure the CSS code is clean and organized. Participated in code reviews and collaborated with the team to fix bugs. Maintained active communication with teammates to ensure the project followed all requirements.
+### [Rental Car](https://github.com/Artemmm008/rental-car) — Car Rental Platform
+A modern web application for discovering and booking rental vehicles, built with performance and user experience in mind.
+* **Tech Stack:** Next.js (App Router), React, TypeScript, CSS Modules, REST API.
+* **Key Features:** Fully responsive UI/UX, server-side data fetching for vehicle listings, intricate filtering systems (by model, brand, and rental features), interactive modal windows for booking details, and dynamic state management.
 
-- [Paw House](https://github.com/Kostiantyn-Spyrydonov/paw-house) – Project Description: Animal shop. Created a responsive header using SASS and Flexbox for display on mobile, tablet and desktop. Built a mobile menu and navigation using JavaScript. Used BEM methodology to keep the code clean and easy to read. Participated in code reviews with other members. Was always in touch to be there if someone needed help and just to be sure that the project met the criteria. 
+### [Leleka](https://github.com/bozhenko-zakhar/final_project_screencast_front) — Pregnancy Monitoring Platform
+A collaborative full-stack web application designed to track and monitor pregnancy data.
+* **Tech Stack:** React, Node.js, Express, JavaScript, REST API, Git.
+* **Key Contribution:** Participated as a developer in a team environment. Worked closely on bridging frontend state management with backend API endpoints, participated in structured code reviews, and conducted debugging across the stack to ensure stability.
+
+### [CoffeyJoy](https://github.com/DronSofiia/project-CoffeeJoy10) – Project Description: Coffey shop. Created a responsive footer using SASS and Flexbox for display on mobile, tablet and desktop with a subscription form. Used BEM methodology to ensure the CSS code is clean and organized. Participated in code reviews and collaborated with the team to fix bugs. Maintained active communication with teammates to ensure the project followed all requirements.
+
+### [Paw House](https://github.com/Kostiantyn-Spyrydonov/paw-house) – Project Description: Animal shop. Created a responsive header using SASS and Flexbox for display on mobile, tablet and desktop. Built a mobile menu and navigation using JavaScript. Used BEM methodology to keep the code clean and easy to read. Participated in code reviews with other members. Was always in touch to be there if someone needed help and just to be sure that the project met the criteria.
 
 ---
 
