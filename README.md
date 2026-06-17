@@ -18,6 +18,7 @@
 ### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🧰 Tools
