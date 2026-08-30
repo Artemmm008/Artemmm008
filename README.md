@@ -40,18 +40,6 @@ Highly motivated to learn new technologies, improve my coding skills, and grow e
 * **Tech Stack:**  Next.js, TanStack Query, React, Node.js, Express, TypeScript, REST API, MongoDB.
 * **Key Contribution:** Participated as a developer in a team environment. Worked closely on bridging frontend state management with backend API endpoints, participated in structured code reviews.
 
-### [Paw House](https://github.com/Kostiantyn-Spyrydonov/paw-house) — Pet Shop
-
-* **Tech Stack:** HTML5, CSS3, JavaScript (Vanilla), Vite.
-* **Key Contribution:** Built the responsive website header and dynamic mobile navigation menu using JavaScript. Collaborated with teammates during code reviews and integrated cross-browser bug fixes.
-
-### [CoffeyJoy](https://github.com/DronSofiia/project-CoffeeJoy10) — Coffee Shop
-
-* **Tech Stack:** HTML5, CSS3, Vite.
-* **Key Contribution:** Developed a fully responsive footer with an integrated subscription form optimized for mobile, tablet, and desktop views.
-
----
-
 ## 🗣️ Languages
 
 ![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
