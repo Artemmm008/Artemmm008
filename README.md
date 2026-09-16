@@ -25,11 +25,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ---
-
-## 🧑‍💻 About Me
-Highly motivated to learn new technologies, improve my coding skills, and grow every day. I truly enjoy working in a team, collaborating with other developers, and solving problems together. Currently, I am looking for my first commercial role where I can contribute to real projects and grow as a professional software engineer.
-
----
 ## 💻 Featured Projects
 
 ### [Rental Car](https://github.com/Artemmm008/rental-car) — Car Rental Platform
