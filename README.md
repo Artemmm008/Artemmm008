@@ -111,8 +111,7 @@ Web application for searching and booking rental vehicles with detailed car prof
 ## GitHub Activity
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Artemmm008
-&theme=dark&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=9AA0B4&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=6B7280&border=2A2438&hide_border=false" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com/?user=Artemmm008&theme=dark&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=9AA0B4&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=6B7280&border=2A2438&hide_border=false" alt="GitHub streak stats" />
 </div>
 
 <br />
