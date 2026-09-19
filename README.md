@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.jpg" alt="Artem Lypatov - Fullstack Developer" width="100%" />
+  <img src="./banner.png" alt="Artem Lypatov - Fullstack Developer" width="100%" />
 </div>
 
 <br />
