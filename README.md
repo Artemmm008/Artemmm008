@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./banner.jpg" alt="Artem Lypatov - Fullstack Developer" width="100%" />
+</div>
+
+<br />
+
 ## About me
 
 I'm Artem, I've been building as a full-stack developer for a year now. I have a strong drive for software engineering, always aiming for professional growth and open to new career opportunities.
