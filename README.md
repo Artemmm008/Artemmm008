@@ -122,7 +122,7 @@ Web application for searching and booking rental vehicles with detailed car prof
 
 <br />
 
-## How to reach me:
+## How to reach me
 
 <div align="center">
 
