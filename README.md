@@ -60,6 +60,7 @@ Schema design, document modeling, and data access with MongoDB
 <br />
 <img src="https://img.shields.io/badge/Node.js-12121a?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-12121a?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/REST_API-12121a?style=flat-square&logo=fastapi&logoColor=009688" alt="REST API" />
 <img src="https://img.shields.io/badge/Stripe-12121a?style=flat-square&logo=stripe&logoColor=008CDD" alt="Stripe" />
 <img src="https://img.shields.io/badge/Cloudinary-12121a?style=flat-square&logo=cloudinary&logoColor=3448C5" alt="Cloudinary" />
 
@@ -91,7 +92,7 @@ Full-stack e-commerce platform for an online clothing brand. Features a complete
 - Image uploads and optimization powered by Cloudinary
 - RESTful API backend with secure user authentication and MongoDB storage
 
-`React` `Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `React Query` `Zustand` `Axios` `Stripe` `Cloudinary`
+`React` `Next.js` `TypeScript` `Node.js` `Express.js` `REST API` `MongoDB` `React Query` `Zustand` `Axios` `Stripe` `Cloudinary`
 
 </td>
 </tr>
@@ -106,7 +107,7 @@ Web application for searching and booking rental vehicles with detailed car prof
 - Advanced filtering by car brand, rental price and car mileage
 - Asynchronous data fetching and caching via React Query
 
-`React` `Next.js` `TypeScript` `Axios` `React Query` `React-Select`
+`React` `Next.js` `TypeScript` `REST API` `Axios` `React Query` `React-Select`
 
 </td>
 </tr>
