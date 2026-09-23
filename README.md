@@ -83,7 +83,7 @@ Schema design, document modeling, and data access with MongoDB
 
 ### <a href="https://arcane21.vercel.app/">Arcane 21</a>
 
-Full-stack e-commerce platform for an online clothing brand. Features a complete shopping experience for customers and a comprehensive admin panel for inventory and sales control.
+Full-stack e-commerce platform for an online clothing brand. Features a complete shopping experience for customers and a comprehensive admin panel for product management and order tracking.
 
 - Client-side shopping cart with guest checkout (unregistered users are assigned temporary IDs via Cookies)
 - Filtering by size, price and category
