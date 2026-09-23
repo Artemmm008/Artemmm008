@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm Artem, I've been building as a full-stack developer for a year now. I have a strong drive for software engineering, always aiming for professional growth and open to new career opportunities.
+I'm Artem, I've been building as a full-stack developer for a year now. I have a strong drive for software development, always aiming for professional growth and open to new career opportunities.
 
 I work with **TypeScript, React, Next.js, and Node.js**, covering the full stack: frontend, backend logic, databases, API integrations. Instead of sticking to just one layer, I handle the whole development process - building both the frontend web experience and the backend logic.
 
